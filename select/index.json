@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "一途な女の子。",
+  "base_artist": "『ユイカ』",
+  "createdAt": "2026-02-17T06:02:09.313155Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "一途な女の子。",
+      "artist": "『ユイカ』",
+      "has_synced": true,
+      "path": "select/01_一途な女の子。_『ユイカ』.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "一途な女の子。",
+      "artist": "『ユイカ』",
+      "has_synced": false,
+      "path": "select/pl_01_一途な女の子。_『ユイカ』.txt"
+    }
+  ]
+}
